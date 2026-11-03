@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.backup
+developer_users.db
+developer_logs.txt
+
+subscriptions.db
